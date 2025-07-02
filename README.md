@@ -24,6 +24,7 @@ The course explores the intersection of **Quantum Computing**, **Post-Quantum Cr
 ![Bell State Circuit](images/bell_state_entanglement_2_qubits_circuit.png)
 
 **Probability Graph:**
+
 ![Bell State Probabilities](images/bell_state_entanglement_2_qubits_probabilities.png)
 
 ### 2. `7.4-6 Grover's Algorithm.ipynb`
@@ -31,15 +32,19 @@ The course explores the intersection of **Quantum Computing**, **Post-Quantum Cr
 - Studied how the oracle marks a target state and how the diffuser amplifies its probability.
 
 **Circuit in Qiskit for Grover Algorithm with solution |00>:**
+
 ![Grover Circuit Result](images/grover_algorithm_for_2_qubits_result_00.png)
 
 **Circuit in Qiskit for Grover Algorithm with solution |01>:**
+
 ![Grover Circuit Result](images/grover_algorithm_for_2_qubits_result_01.png)
 
 **Circuit in Qiskit for Grover Algorithm with solution |10>:**
+
 ![Grover Circuit Result](images/grover_algorithm_for_2_qubits_result_10.png)
 
 **Circuit in Qiskit for Grover Algorithm with solution |11>:**
+
 ![Grover Circuit Result](images/grover_algorithm_for_2_qubits_result_11.png)
 
 ### 3. `7.8 Making Circuits (Quiz).ipynb`
@@ -68,11 +73,12 @@ I used `AerSimulator` with 1000 shots to evaluate the final circuit. After measu
 
 To visualize the result, we normalized the counts into probabilities and plotted a histogram. The output showed a sharp peak at the expected state.
 
-
 **Circuit in Qiskit:**
+
 ![Grover Circuit Result](images/grover_algorithm_for_4_qubits.png)
 
 **Probability Graph:**
+
 ![Grover Probability Result](images/grover_algorithm_for_4_qubits_probability_result.png)
 
 ### 5. `8.2 Assignment_03.ipynb`
@@ -98,11 +104,12 @@ ent_circ.cx(0, 1)
 ent_circ.cx(0, 2)
 ```
 **Circuit in Qiskit:**
+
 ![Entanglement for 3 qubits Circuit](images/entanglement_3_qubits_circuit.png)
 
 **Probability Graph:**
-![Entanglement for 3 qubits](images/entanglement_3_qubits_probabilities.png)
 
+![Entanglement for 3 qubits](images/entanglement_3_qubits_probabilities.png)
 
 ## 🧮 Tools & Libraries
 - [Qiskit 2.1.0](https://qiskit.org/)
