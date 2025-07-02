@@ -23,12 +23,8 @@ The course explores the intersection of **Quantum Computing**, **Post-Quantum Cr
 ![Bell State](images/bell_state.png)
 
 ### 2. `7.4-6 Grover's Algorithm.ipynb`
-- Built a 4-qubit Grover’s search circuit to find a marked state (e.g., `|0010⟩`).
-- Included one iteration of oracle + diffuser, and simulated measurements using `AerSimulator`.
-- Visualized search results using probability histograms and verified convergence.
-
-**Visualization Example:**
-![Grover Result](images/grover_result.png)
+- Focused on understanding the structure and purpose of Grover’s algorithm.
+- Studied how the oracle marks a target state and how the diffuser amplifies its probability.
 
 ### 3. `7.8 Making Circuits (Quiz).ipynb`
 - Practice notebook to solidify knowledge on gate placement, multi-qubit operations, and measurement ordering.
@@ -41,6 +37,13 @@ The course explores the intersection of **Quantum Computing**, **Post-Quantum Cr
 
 ### 5. `8.2 Assignment_03.ipynb`
 - Hands-on test of controlled gates, custom circuit design, and quantum logic evaluation.
+- Built a 4-qubit Grover’s search circuit to find a marked state (e.g., `|0010⟩`).
+- Included one iteration of oracle + diffuser, and simulated measurements using `AerSimulator`.
+- Visualized search results using probability histograms and verified convergence.
+
+**Visualization Example:**
+![Grover Result](images/grover_result.png)
+
 
 ## 🧮 Tools & Libraries
 - [Qiskit 2.1.0](https://qiskit.org/)
