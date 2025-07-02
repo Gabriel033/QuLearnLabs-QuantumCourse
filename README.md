@@ -20,6 +20,7 @@ The course explores the intersection of **Quantum Computing**, **Post-Quantum Cr
 - Used custom function `ket_expression()` from `functions.py` to print clean LaTeX-style state vectors.
 
 **Circuit in Qiskit:**
+
 ![Bell State Circuit](images/bell_state_entanglement_2_qubits_circuit.png)
 
 **Probability Graph:**
