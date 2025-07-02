@@ -135,8 +135,16 @@ I’m Gabriel Castillo, a Mechatronics Engineer from Tecnológico de Monterrey, 
 ├── 8.2 Assignment_03.ipynb
 ├── functions.py
 ├── images/
-│   ├── bell_state.png
-│   └── grover_result.png
+│ ├── bell_state_entanglement_2_qubits_circuit.png
+│ ├── bell_state_entanglement_2_qubits_probabilities.png
+│ ├── entanglement_3_qubits_circuit.png
+│ ├── entanglement_3_qubits_probabilities.png
+│ ├── grover_algorithm_for_4_qubits_probability_result.png
+│ ├── grover_algorithm_for_2_qubits_result_00.png
+│ ├── grover_algorithm_for_2_qubits_result_01.png
+│ ├── grover_algorithm_for_2_qubits_result_10.png
+│ ├── grover_algorithm_for_2_qubits_result_11.png
+│ └── grover_algorithm_for_4_qubits.png
 └── README.md
 ```
 
