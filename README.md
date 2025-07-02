@@ -151,5 +151,3 @@ I’m Gabriel Castillo, a Mechatronics Engineer from Tecnológico de Monterrey, 
 ---
 
 🧪 *Quantum mechanics shows us particles can exist in multiple states at once. Similarly, my journey in Quantum Computing is just beginning—with all paths open.*
-
-#QuantumComputing #DeepTechTalent #Qiskit #FutureTech
