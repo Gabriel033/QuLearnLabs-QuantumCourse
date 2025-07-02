@@ -125,14 +125,6 @@ I’m Gabriel Castillo, a Mechatronics Engineer from Tecnológico de Monterrey, 
 
 🧵 [LinkedIn Announcement – QuLearnLabs Program Acceptance](https://www.linkedin.com/in/jgabriel-castillog/recent-activity/all/)
 
-## 🧠 Sample Output
-
-Here’s an example of one of the output statevectors visualized using our custom LaTeX-like printer:
-
-```
-(0.707+0.000j)|00⟩ + (0.707+0.000j)|11⟩
-```
-
 ## 📁 Repository Structure
 
 ```
